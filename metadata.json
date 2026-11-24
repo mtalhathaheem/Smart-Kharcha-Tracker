@@ -1,0 +1,6 @@
+{
+  "name": "Smart Kharcha Tracker",
+  "description": "Smart Pakistan expense and budget tracker with automated SMS transaction detection for EasyPaisa, JazzCash, NayaPay, SadaPay, and banks in PKR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
